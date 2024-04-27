@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Front-to-back--Connect-to-SQL--EF.props" />
+</Project>

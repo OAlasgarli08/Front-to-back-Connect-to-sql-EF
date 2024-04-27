@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\controller\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\controller\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\controller\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\controller\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\controller\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\controller\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\controller\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\controller\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|c:\\users\\omar\\desktop\\front-to-back--connect-to-sql--ef\\front-to-back--connect-to-sql--ef\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4C9836F-B4F4-448C-A76B-39FC7D58F21E}|Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF.csproj|solutionrelative:front-to-back--connect-to-sql--ef\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:37:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAuwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:34:09.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\PricingController.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Controller\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\PricingController.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Controller\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:33:58.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAHkBAAAAAAAAAAAuwLABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:32:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\WorkController.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Controller\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\WorkController.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Controller\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:32:47.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:31:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\AboutController.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Controller\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\AboutController.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Controller\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:31:36.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Program.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Program.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:24:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:14:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:10:16.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\ContactController.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Controller\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\ContactController.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Controller\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:09:50.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T18:44:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "Front-to-back--Connect-to-SQL--EF\\Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Desktop\\Front-to-back--Connect-to-SQL--EF\\Front-to-back--Connect-to-SQL--EF\\Controller\\HomeController.cs",
+              "RelativeToolTip": "Front-to-back--Connect-to-SQL--EF\\Controller\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:40:52.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
